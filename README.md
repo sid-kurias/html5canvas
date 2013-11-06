@@ -1,4 +1,4 @@
 html5canvas
 ===========
 
-Example from html5 canvas book - david geary
+Examples from html5 canvas book by David Geary. These examples are written in Dart.
