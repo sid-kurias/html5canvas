@@ -31,7 +31,7 @@ class RubberBandLines {
    
       e.preventDefault(); // prevent cursor change
 
-      saveDrawingSurface();
+      saveDrawingSurface(); //saves the existing state of the  canvas
       mouseDown['x'] = loc['x'];
       mouseDown['y']= loc['y'];
       dragging = true;
